@@ -1,0 +1,10 @@
+.hypothesis/
+.idea/
+.vscode/
+*/__pycache__/
+*/*/__pycache__/
+lightning_logs/
+tb_logs
+
+train_local.sh
+train_cluster.sh

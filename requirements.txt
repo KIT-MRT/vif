@@ -1,0 +1,9 @@
+timm
+lightning
+ujson
+tqdm
+scikit-image
+imagesize
+imageio
+torchmetrics
+vit-pytorch
